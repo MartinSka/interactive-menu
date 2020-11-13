@@ -1,8 +1,9 @@
-### The story.
+
+# Interactive Menu - The story.
 
 You work for a restaurant which needs to have implemented an interactive menu. The menu consists of items which are made out of ingredients. For each ingredient we know the name and sub-ingredients which it is consisted of. Same ingredient can be in several menu items. Some of the customers happen to be allergic to some of the ingredients. They need to be aware that the food they want to order may contain allergens.
 
-# Getting Started with Create React App
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
